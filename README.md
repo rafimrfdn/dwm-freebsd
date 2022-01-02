@@ -9,13 +9,15 @@ Features
 
 The cool feature on this DWM setup is created with solid patches. I explore some patches and I think only this 6 pathes works great on my workflow.
 
+I use SLStatus because it works very well on my FreeBSD and easy to setup. Plase go to SLSTATUS folder on this setup.
+
 Patches in this DWM
 -------------------
 
 - Autostart           // use to make autostart.sh file run after DWM first start on system
 - Warp                // make mouse always follows the focus screen
 - Fullgaps            // create gaps between opened window and can be toggled
-- Systray             // I use this to set tray before the dwmbloks (date status)
+- Systray             // I use this to set tray before the SLStatus (date, uptime, volume status)
 - Pertag              // use this to make different tag mode for every tag. Ex: [1] set to Floating, but in [2] can set to Monocle
 - Alwayscenter        // make floating window always in center of the screen
 
@@ -61,7 +63,7 @@ This is important thing to do
 Screenshot
 ----------
 
-![dwm screenshot - minimalist - solid - mrfdn](https://github.com/rafimrfdn/dwm/blob/main/freebsd-dwm-slstatus.png)
+![dwm screenshot - minimalist - solid - mrfdn](https://github.com/rafimrfdn/dwm-freebsd/blob/main/freebsd-dwm-slstatus.png)
 
 
 dwm - dynamic window manager
@@ -77,7 +79,7 @@ In order to build dwm you need the Xlib header files.
 Installation
 ------------
 Edit config.mk to match your local setup (dwm is installed into
-the /usr/local namespace by default).
+the /usr/local/ namespace by default).
 
 Afterwards enter the following command to build and install dwm (if
 necessary as root):
