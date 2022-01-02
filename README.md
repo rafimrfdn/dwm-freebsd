@@ -1,5 +1,5 @@
-Welcome to my DWM Setup
-=======================
+Welcome to my DWM Setup on FreeBSD
+==================================
 
 This is my very first DWM 6.2 newest build. Very simple and works well for my workflow.
 
