@@ -61,7 +61,7 @@ This is important thing to do
 Screenshot
 ----------
 
-![dwm screenshot - minimalist - solid - mrfdn](https://github.com/rafimrfdn/dwm/blob/main/freebsd-dwm-vacantags-slstatus.png)
+![dwm screenshot - minimalist - solid - mrfdn](https://github.com/rafimrfdn/dwm-freebsd/blob/main/dwm%2Bhide-vacant-tags/freebsd-dwm-vacantags-slstatus.png)
 
 
 dwm - dynamic window manager
