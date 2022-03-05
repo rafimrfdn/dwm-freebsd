@@ -21,6 +21,12 @@ Patches in this DWM
 - Pertag              // use this to make different tag mode for every tag. Ex: [1] set to Floating, but in [2] can set to Monocle
 - Alwayscenter        // make floating window always in center of the screen
 
+Update some addition patches :
+- Hide Vacant Tags    // To show only active number of tags on the bar
+
+One directory specially add :
+- Bar Height          // To set manual height of bar
+
 Keybinds
 --------
 
@@ -51,12 +57,15 @@ I prefer using this font
 - SF Pro Display Medium for system
 - JetBrains Mono for terminal font
 
+Best for FreeBSD
+- Liberation Sans 
+
 How to setup this DWM build
 ---------------------------
 
 This is important thing to do 
 1. To make transparent effect, you can set `picom.conf` which is include in this build
-2. Create symbolic link of `autostart.sh` file on `~/.local/share/dwm/`
+2. Crate symbolic link of `autostart.sh` file on `~/.local/share/dwm/`
    - `cd ~/.local/share/dwm/`
    - `ln -s path/to/autostart.sh autostart.sh`
 
@@ -114,4 +123,3 @@ Configuration
 -------------
 The configuration of dwm is done by creating a custom config.h
 and (re)compiling the source code.
-
