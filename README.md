@@ -72,7 +72,7 @@ This is important thing to do
 Screenshot
 ----------
 
-![dwm screenshot - minimalist - solid - mrfdn](https://github.com/rafimrfdn/dwm-freebsd/blob/main/freebsd-dwm-slstatus.png)
+![dwm screenshot - minimalist - solid - mrfdn](https://github.com/rafimrfdn/dwm-freebsd/blob/main/dwm-basic/freebsd-dwm-slstatus.png)
 
 
 dwm - dynamic window manager
