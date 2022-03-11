@@ -72,7 +72,14 @@ This is important thing to do
 Screenshot
 ----------
 
+### DWM Basic
 ![dwm screenshot - minimalist - solid - mrfdn](https://github.com/rafimrfdn/dwm-freebsd/blob/main/dwm-basic/freebsd-dwm-slstatus.png)
+
+### DWM + Vacant Tags
+![dwm screenshot - vacant tags](https://raw.githubusercontent.com/rafimrfdn/dwm-freebsd/main/dwm%2Bhide-vacant-tags/freebsd-dwm-vacantags-slstatus.png)
+
+### DWM + Vacant Tags + Bar Height
+![dwm screenshot - vacant tags - bar height](https://raw.githubusercontent.com/rafimrfdn/dwm-freebsd/main/dwm%2Bhide-vacant-tags%2Bbar-height/freebsd-dwm-conky-slstatus.png)
 
 
 dwm - dynamic window manager
